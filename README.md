@@ -91,6 +91,7 @@ Favorite extensions for my favorite editor
 - [Git Tree Compare](https://marketplace.visualstudio.com/items?itemName=letmaik.git-tree-compare)
 - [GistPad](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs)
 - [JSON Stable Sort](https://marketplace.visualstudio.com/items?itemName=TravisIllig.vscode-json-stable-stringify) or [Sort JSON objects](https://marketplace.visualstudio.com/items?itemName=richie5um2.vscode-sort-json)
+- [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 
 ## Appearance
 
